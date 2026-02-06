@@ -1,6 +1,6 @@
 # Physics-Informed MOGP for HEA Screening
 
-This repository contains the Jupyter Notebooks and analysis code for the manuscript: **"A multi-output Gaussian process framework for physics-embedded transfer learning in data-scarce high-entropy alloy screening"**.
+This repository contains the Jupyter Notebooks and analysis code for the manuscript: **"A unified multi-output surrogate framework for zero-shot transfer learning to bridge the FEM computational bottleneck"**.
 
 ## Repository Content
 
